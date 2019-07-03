@@ -1,28 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,US: NBA TV HD
-http://thenew.tv:8000/Olga123/Olga321/5005
-#EXTINF:-1,US: ABC
-http://thenew.tv:8000/Olga123/Olga321/54192
-#EXTINF:-1,US: Adult Swim Channel
-http://thenew.tv:8000/Olga123/Olga321/3462
-#EXTINF:-1,US: American Heroes
-http://thenew.tv:8000/Olga123/Olga321/3391
-#EXTINF:-1,US: ANIMAL PLANET HD
-http://thenew.tv:8000/Olga123/Olga321/3460
-#EXTINF:-1,US: BET
-http://thenew.tv:8000/Olga123/Olga321/3459
-#EXTINF:-1,US: BET her
-http://thenew.tv:8000/Olga123/Olga321/3458
-#EXTINF:-1,US:BOOMERANG
-http://thenew.tv:8000/Olga123/Olga321/3457
-#EXTINF:-1,US: BTN
-http://thenew.tv:8000/Olga123/Olga321/3482
-#EXTINF:-1,US: CBS (East)
-http://thenew.tv:8000/Olga123/Olga321/3454
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",US: ESPN
 http://80.80.160.168/live/6/live.m3u8
 
