@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTM3U
+#EXTINF:-1,Bein Sports News
+http://cdnv.supercdn.tn/iptv/ch110?code=160127665325473
+#EXTINF:-1,Bein Sport
+http://cdnv.supercdn.tn/iptv/ch400?code=160127665325473
+#EXTINF:-1,BeInSport Max 1 HD
+http://cdnv.supercdn.tn/iptv/ch8111?code=160127665325473
+#EXTINF:-1,BeInSport Max 2 HD
+http://cdnv.supercdn.tn/iptv/ch8112?code=160127665325473
+#EXTINF:-1,BeInSport Max 3 HD
+http://cdnv.supercdn.tn/iptv/ch8113?code=160127665325473
+#EXTINF:-1,BeInSport Max 4 HD
+http://cdnv.supercdn.tn/iptv/ch8114?code=160127665325473
+#EXTINF:-1,BeInSport 1 HD
+http://cdnv.supercdn.tn/iptv/ch111?code=160127665325473
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",US: ESPN
 http://80.80.160.168/live/6/live.m3u8
 
