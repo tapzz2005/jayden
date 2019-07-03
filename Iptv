@@ -8,6 +8,24 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",US: ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://edr.akiptv.biz:8000/live/1155/1108.be/8408.ts
+#EXTINF:-1,BEIN SPORTS SD 2 (1120x640)
+http://edr.akiptv.biz:8000/live/1155/1108.be/8401.ts
+#EXTINF:-1,BEIN SPORTS 2 HD (1920X1080)
+http://edr.akiptv.biz:8000/live/1155/1108.be/8407.ts
+#EXTINF:-1,BEIN SPORTS SD 3 (1120x640)
+http://edr.akiptv.biz:8000/live/1155/1108.be/8400.ts
+#EXTINF:-1,BEIN SPORTS SD 4 (1120x640)
+http://edr.akiptv.biz:8000/live/1155/1108.be/8399.ts
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://edr.akiptv.biz:8000/live/1155/1108.be/8406.ts
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://edr.akiptv.biz:8000/live/1155/1108.be/8405.ts
+#EXTINF:-1,BEIN SPORTS MAX 1 SD (1120x640)
+http://edr.akiptv.biz:8000/live/1155/1108.be/8398.ts
+
+
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",Big Ten
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
