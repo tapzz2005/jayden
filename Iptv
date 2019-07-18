@@ -1,17 +1,6 @@
 #EXTM3U
 
 
-﻿#EXTINF:-1,(M) USA: A & E
-http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5353
-#EXTINF:-1,(M) USA: ABC NY FHD
-http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5352
-#EXTINF:-1,(M) USA: AMC
-http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5351
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",US: ESPN*
-http://abc1.myplay.live:2086/anas/1234/2136
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",US: ESPN
 http://80.80.160.168/live/6/live.m3u8
 
