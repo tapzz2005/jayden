@@ -2,58 +2,7 @@
 
 #EXTINF:0,LAFF TV US
 http://71.112.178.115:9981/stream/channelid/581331773
-#EXTINF:0,A&E US (203844)
-https://api.vpnmate.com/play/?vlc=1&channel=203844&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,A&E US (1018515)
-https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,A&E US (200410)
-https://api.vpnmate.com/play/?vlc=1&channel=200410&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,ABC US (206053)
-https://api.vpnmate.com/play/?vlc=1&channel=206053&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Adult Swim (east) US (100067)
-https://api.vpnmate.com/play/?vlc=1&channel=100067&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,AMC (5025182)
-https://api.vpnmate.com/play/?vlc=1&channel=5025182&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,AMC (East) US (200418)
-https://api.vpnmate.com/play/?vlc=1&channel=200418&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,AMC (East) US (406510)
-https://api.vpnmate.com/play/?vlc=1&channel=406510&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,AMC (East) US (3005883)
-https://api.vpnmate.com/play/?vlc=1&channel=3005883&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,American Heroes Channel (1018493)
-https://api.vpnmate.com/play/?vlc=1&channel=1018493&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,American Heroes Channel (5025109)
-https://api.vpnmate.com/play/?vlc=1&channel=5025109&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Animal Planet (5025077)
-https://api.vpnmate.com/play/?vlc=1&channel=5025077&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Animal Planet US (200433)
-https://api.vpnmate.com/play/?vlc=1&channel=200433&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Antenna Network (232559)
-https://api.vpnmate.com/play/?vlc=1&channel=232559&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,ASPiRE TV (1123531)
-https://api.vpnmate.com/play/?vlc=1&channel=1123531&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,AXS TV (3010993)
-https://api.vpnmate.com/play/?vlc=1&channel=3010993&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Baby Tv US (213296)
-https://api.vpnmate.com/play/?vlc=1&channel=213296&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,BBC America (1018489)
-https://api.vpnmate.com/play/?vlc=1&channel=1018489&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,BBC America (5025389)
-https://api.vpnmate.com/play/?vlc=1&channel=5025389&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,BBC World News (5025464)
-https://api.vpnmate.com/play/?vlc=1&channel=5025464&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Bet (east) US (204163)
-https://api.vpnmate.com/play/?vlc=1&channel=204163&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Bet (west) US (206079)
-https://api.vpnmate.com/play/?vlc=1&channel=206079&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Bet Her US (1018484)
-https://api.vpnmate.com/play/?vlc=1&channel=1018484&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Bloomberg US (200250)
-https://api.vpnmate.com/play/?vlc=1&channel=200250&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Boomerang (3005808)
-https://api.vpnmate.com/play/?vlc=1&channel=3005808&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
-#EXTINF:0,Boomerang (5007177)
-https://api.vpnmate.com/play/?vlc=1&channel=5007177&token=tVowxbRV9Fgx:ZDRmZGI2YTFmMTc0YTM0MmM2N2UyNGYwZThlNWJjNDVlM2UyMmU4Mg==
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",US: ESPN
